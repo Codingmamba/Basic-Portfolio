@@ -1,0 +1,50 @@
+body {
+    background-image: url("https://static.wixstatic.com/media/996b12_60b70992355c4dd7b10a5d60b5678162.png_srz_980_551_85_22_0.50_1.20_0.00_png_srz");
+}
+
+.header {
+	background: white;
+}
+
+.your-name {
+	color: white;
+	background:  #49aaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	width: 158px;
+    height: 56px;
+	text-align: center;
+	padding-bottom: 12px;
+	margin: 40px;
+}
+
+.nav-fade li {
+   padding: 8px;
+   color: grey;
+   display: inline;
+   transition: background .25s ease-in-out;
+   -moz-transition: background .25s ease-in-out;
+   -webkit-transition: background .25s ease-in-out;
+   }
+
+.nav-fade li:hover {
+      background: #ddd;
+    }
+
+#about-me {
+	background: white;
+	width: 418px;
+	height: 122px;
+}
+
+#blue-font {
+	color: #49aaa5;
+}
+
+footer {
+	background: #666;
+    color: white;
+    text-align: center;
+    height: 70px;
+    padding-top: 15px;
+    margin: 10px;
+}
