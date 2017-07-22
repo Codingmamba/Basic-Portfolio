@@ -46,6 +46,16 @@ body {
 	text-align: left;
 }
 
+#portfolio {
+    background: white;
+	width: 600px;
+	height: 700px;
+	display: inline-block;
+	margin-bottom: 120px;
+	margin-left: 120px;
+	text-align: left;	
+}
+
 #connect-with-me {
 	background: white;
 	padding: 0px;
